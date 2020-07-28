@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will make a set of data available from a collection of (sample) healthcare documents for healthcare administrators and researchers.  In order to stay manageable, the proof-of-concept will begin with patient location data (zip codes), language data, and hospital affiliations, as well as location data for hospitals.  The sample documents and data will be randomly generated.  This means it will not accurately reflect realistic healthcare scenarios, but the documents will conform with the widely used CDA/XML healthcare standard, which means that one could conceivably swap real-life CDA documents into the system without making any other changes to the app.
+
 ### Features
-Include Features here
+Searching and filtering
+Dynamic mapping
+Adding new data
+(Later stage) Editing and amending the CDA/XML records
+
 ### Technologies
 Include Technologies here
+XML
+ASP.NET MVC
+Leaflet JavaScript (or Google Maps... tbd)
+html+css or Bootstrap
+Database (probably MySQL but maybe BaseX if I can find resources for connecting that with ASP.NET)
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Leaflet.js or Google Maps API
+ASP.NET MVC (more practice)
+Connecting ASP.NET to an XML database (if I go with BaseX)
+
 ### Project Tracker
-Link to your Trello board here
+TBA
