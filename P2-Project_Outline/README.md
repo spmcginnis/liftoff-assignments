@@ -16,7 +16,10 @@ My project will make a set of data available from a collection of (sample) healt
 - Dynamic mapping
 - Adding new data
 - Simple validation
+- User login
 - (Later stage) Editing and amending the CDA/XML records directly
+- (Later stage) Saved searches
+- (Later stage) Export data and search results
 
 
 ### Technologies
