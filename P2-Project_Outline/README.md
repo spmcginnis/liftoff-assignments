@@ -9,7 +9,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 (TBA)
 
 ## Overview
-My project will make a set of data available from a collection of (sample) healthcare documents for healthcare administrators and researchers.  In order to stay manageable, the proof-of-concept will begin with patient location data (zip codes), language data, and hospital affiliations, as well as location data for hospitals.  The sample documents and data will be randomly generated.  This means it will not accurately reflect realistic healthcare scenarios, but the documents will conform with the widely used CDA/XML healthcare standard, which means that one could conceivably swap real-life CDA documents into the system without making any other changes to the app.
+My project will make a set of data available from a collection of (sample) healthcare documents for healthcare administrators and researchers.  In order to stay manageable, the proof-of-concept will begin with patient location data (zip codes), language data, and hospital affiliations, as well as location data for hospitals.  The sample documents and data will be randomly generated.  This means it will not accurately reflect realistic healthcare scenarios, but the documents will conform with the widely used CDA/XML healthcare standard, which means that one could conceivably swap real-life CDA documents into the system without making any other changes to the app (HIPAA protocols notwithstanding).
 
 ### Features
 - Searching and filtering
