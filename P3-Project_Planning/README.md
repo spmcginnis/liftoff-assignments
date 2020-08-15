@@ -9,11 +9,15 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Page 1](https://github.com/spmcginnis/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/page1.png)
+[Page 2](https://github.com/spmcginnis/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/page2.png)
+[Page 3](https://github.com/spmcginnis/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/page3.png)
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/qUOXYLjr/lc-final-project-liftoff)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[GitHub Repo](https://github.com/spmcginnis/liftoff-assignments)
